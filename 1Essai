@@ -1,1 +1,51 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>La parole de vie au quotidien</title>
+    </head>
+    <body>
+        <h1>La parole de vie au quotidien</h1>
+        <p>Bonjour et bienvenue a tous sur mon site.<br/>
+        Je viens partager avec vous une meditation qui m'inspire beaucoup!</p>
+        <h2>Proverbes 31:10</h2>
+        <p>Qui peut trouver une femme vertueuse?<br/>
+            Elle a bien plus de valeur que les perles.<br/>
+            Le coeur de son mari a confiance en elle,<br/>
+            Et les produits ne lui feront pas defaut.<br/>
+            Elle lui fait du bien et non du mal,<br/>
+            tous les jours de sa vie.</p>
+        <p>Elle se procure de la laine et du lin,<br/>
+                Et travaille d'une main joyeuse.<br/>
+                 Elle est comme un navire marchand,<br/>
+                  Elle amene son pain de loin.</p>
+        <p>Elle se leve lorsqu'il est encore nuit,<br/>
+             Et elle donne de la nourriture a sa maison<br/> 
+            Et la tache a ses servantes.<br/>
+            Elle pense a un champ et elle l'acquiert;<br/>
+            Du fruit de son travail elle plante une vigne.</p>
+        <p>Elle ceint de force ses reins,<br>
+            Et elle affermit ses bras.<br/>
+            Elle sent que ce qu'elle gagne est bon;<br/>
+            Sa lampe ne s'eteint point pendant la nuit.</p>
+        <p> Elle met la main a la quenouille,<br/>
+            Et ses doigts tiennent le fuseau.<br/>
+            Elle tend la main aux malheureux,<br/>
+            Elle tend la main a l'indigent.</p>
+        <p>Elle ne craint pas la neige pour sa maison,<br/>
+            Car toute sa maison est vetue de cramoisi.<br/>
+            Elle se fait des couvertures,<br/>
+            Elle a des vetements de fin lin e de pourpre.</p>
+        <p>Son mari est considere aux portes,<br/>
+            Lorsqu'il siege ave les anciens du pays.<br/>
+            Elle fait des chemises,et les vend,<br/>
+            Et elle livre des ceintures au marchand.</p>
+         <p>Elle est revetue de force et de gloire,<br/>
+            Et elle se rit de l'avenir.<br/>
+            Elle ouvre la bouche avec sagesse,<br/>
+            Et des instructions aimables sont sur sa langue.<br/>
+            Elle veille sur ce qui se passe dans sa maison,<br/>
+            Et elle ne mange pas le pain de la paresse.
+        </p>
+    </body>
+</html>
